@@ -14,7 +14,7 @@
     * [Redemption Mechanism](networks/the-graph/technical-reference/redemption-mechanism.md)
   * [FAQs](networks/the-graph/faqs.md)
   * [Deployed Contracts](networks/the-graph/deployed-contracts.md)
-* [Livepeer](networks/livepeer.md)
+* [Livepeer(Coming soon)](networks/livepeer-coming-soon.md)
 
 ***
 
