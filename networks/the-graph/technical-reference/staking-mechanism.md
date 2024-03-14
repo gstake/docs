@@ -1,0 +1,5 @@
+# Staking Mechanism
+
+Users can stake GRT to the core contract to mint wstGRT in real-time. The protocol operator will regularly stake GRT from the core contract to The Graph protocol through the delegator contract. Each time GRT is staked to The Graph through a delegator, 0.5% of GRT is destroyed. For more information about the delegator, please refer to [The Graph Protocol Documentation](https://docs.thegraph.academy/official-docs/delegator). The operator will distribute GRT as evenly as possible to the 29 delegators. Why do we need 29 delegators? The mechanism of TheGraph protocol stipulates that a delegator needs to wait for 28 days from undelegate to withdraw, and each undelegate will reset the withdraw waiting time.
+
+To simplify the complexity of the protocol, the Gstake protocol stipulates that each delegator will only stake to one [indexer](https://docs.thegraph.academy/official-docs/indexer), and the selection of the indexer will be decided by voting through DAO in the future. Each indexer has a delegation capacity, so Gstake will also have a maximum staking limit.
