@@ -8,7 +8,7 @@
   * [Overview](networks/the-graph/overview.md)
   * [User Guide](networks/the-graph/user-guide.md)
   * [Technical Reference](networks/the-graph/technical-reference/README.md)
-    * [Contract Architecture](networks/the-graph/technical-reference/contract-architecture.md)
+    * [Contract Architecture](networks/the-graph/technical-reference/contract-framework.md)
     * [Introduction to wstGRT](networks/the-graph/technical-reference/introduction-to-wstgrt.md)
     * [Staking Mechanism](networks/the-graph/technical-reference/staking-mechanism.md)
     * [Redemption Mechanism](networks/the-graph/technical-reference/redemption-mechanism.md)
