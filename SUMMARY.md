@@ -15,6 +15,7 @@
   * [FAQs](networks/the-graph/faqs.md)
   * [Deployed Contracts](networks/the-graph/deployed-contracts.md)
 * [Livepeer(Coming soon)](networks/livepeer-coming-soon.md)
+* [Streamr(Coming soon)](networks/streamr-coming-soon.md)
 
 ***
 
