@@ -1,8 +1,6 @@
 # 📔 Introduction
 
-
-
-<figure><img src=".gitbook/assets/Defi_to_DePIN.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Defi_to_DePIN 2.jpg" alt=""><figcaption></figcaption></figure>
 
 This documentation is intended to introduce the general user to the project, as well as to serve as a guide for anyone who may be developing software using Gstake.
 
