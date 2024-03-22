@@ -14,5 +14,5 @@
 
 **Next Steps**
 
-* Launch Gstake on more DePIN networks (Livepeer, Arweave, IoTeX, etc.)
+* Launch Gstake on more DePIN networks (Livepeer, Streamr, etc.)
 * Gstake for TheGraph v2

@@ -8,7 +8,7 @@ This documentation is intended to introduce the general user to the project, as 
 
 ## What is Gstake
 
-Gstake is a liquid staking solution for DePIN, currently supports [The Graph](https://thegraph.com/), and will continue to support [Livepeer](https://livepeer.org/), [Arweave](https://www.arweave.org/) and other DePIN networks.
+Gstake is a liquid staking solution for DePIN, currently supports [The Graph](https://thegraph.com/), and will continue to support [Livepeer](https://livepeer.org/), [Streamr](https://streamr.network/) and other DePIN networks.
 
 ## What is liquid staking? <a href="#what-is-liquid-staking" id="what-is-liquid-staking"></a>
 
