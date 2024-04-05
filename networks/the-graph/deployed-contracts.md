@@ -10,7 +10,7 @@ This page lists the Gstake Deployed Contracts on each chain.
 
 Operater address:  [0xcfCF07d7510D1c49db651132D8EFcAC7dafA05BC](https://arbiscan.io/address/0xcfCF07d7510D1c49db651132D8EFcAC7dafA05BC)
 
-Owner address: [0x12b85D2c0E59f030711160fa42048cA1FA6c772f](https://arbiscan.io/address/0x12b85D2c0E59f030711160fa42048cA1FA6c772f)
+Owner address: [0xE7e9d084B5Be034BB6dF336b46328B7d19298609](https://arbiscan.io/address/0xE7e9d084B5Be034BB6dF336b46328B7d19298609)
 
 Treasury address: [0xB80b9c4a92b2985491B22e51CEeA6F10bCb7033f](https://arbiscan.io/address/0xB80b9c4a92b2985491B22e51CEeA6F10bCb7033f)
 
